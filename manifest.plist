@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.224:9090/fruit.ipa</string>
+					<string>http://www.fruitease.com:8081/apps/fruit.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
