@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://oheng.com/apps/fruit.ipa</string>
+					<string>https://git.oschina.net/euky/oheng-fruit/raw/master/fruit.ipa?dir=0&filepath=fruit.ipa&oid=b1309ca1352d789a6b76f597f1e0c4bedc6153c9&sha=c3f3925e9cf88adb6e7e213ef89828b83132a5eb</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,12 +19,12 @@
 					<key>url</key>
 					<string>https://oheng.com/image.57x57.jpg</string>
 				</dict>
-				<dict>
+				<!--<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://oheng.com/image.512x512.jpg</string>
-				</dict>
+				</dict>-->
 			</array>
 			<key>metadata</key>
 			<dict>
