@@ -1,4 +1,17 @@
-{
-"ios":1.0,
-"android":1
+rport": {
+        "ios": 1.2,
+        "android": 1.2
+    },
+    "inspect": {
+        "ios": 1.2,
+        "android": 1.2
+    },
+    "airportSign": {
+        "ios": 1.2,
+        "android": 1.2
+    },
+    "oceanInspect": {
+        "ios": 1.2,
+        "android": 1.2
+    }
 }
