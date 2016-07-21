@@ -1,18 +1,18 @@
 {
     "airport": {
-        "ios": 1.2,
+        "ios": 1.3,
         "android": 1.2
     },
     "inspect": {
-        "ios": 1.2,
+        "ios": 1.3,
         "android": 1.2
     },
     "airportSign": {
-        "ios": 1.2,
+        "ios": 1.3,
         "android": 1.2
     },
     "oceanInspect": {
-        "ios": 1.2,
+        "ios": 1.3,
         "android": 1.2
     }
 }
