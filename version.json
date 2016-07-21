@@ -1,4 +1,5 @@
-rport": {
+{
+    "airport": {
         "ios": 1.2,
         "android": 1.2
     },
